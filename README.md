@@ -1,5 +1,5 @@
 
-#INTRODUCTION
+*INTRODUCTION
 
 FizzBuzz java application should work as below
 
