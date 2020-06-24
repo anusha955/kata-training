@@ -11,9 +11,11 @@ if none of these cases then it should return given integer(i)
 
 
 
-# REQUIREMENTS
+# DEPENDENCIES REQUIRED
 
 This application requires junit4 or higher version dependencies.
+
+# JAVA VERSION
 To run this appliction java 1.7 or higher verion is required.
 
 # TEST CLASS
