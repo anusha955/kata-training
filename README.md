@@ -11,12 +11,12 @@ if none of these cases then it should return given integer(i)
 
 
 
-* REQUIREMENTS
+** REQUIREMENTS
 
 This application requires junit4 or higher version dependencies.
 To run this appliction java 1.7 or higher verion is required.
 
-* TEST CLASS
+*** TEST CLASS
 
 FizzBuzzTest is the class responisble to run all the unit test cases.
 
